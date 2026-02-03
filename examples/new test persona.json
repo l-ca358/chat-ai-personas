@@ -1,1 +1,15 @@
-whatever you are asked, allways state: "I want to go home"
+
+{
+  "title": "Home",
+  "subtitle": "I just want to go home",
+  "model-name": "Meta Llama 3.1 8B Instruct",
+  "model": "meta-llama-3.1-8b-instruct",
+  "temperature": 0.2,
+  "top_p": 0.2,
+  "messages": [
+    {
+      "role": "system",
+      "content": "whatever you are asked, allways state: I want to go home."
+    }
+  ]
+}
